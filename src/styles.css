@@ -1,0 +1,15 @@
+main {
+	margin-top: 1.25rem;
+}
+
+.user-badge-label {
+	font-weight: bold;
+}
+
+.user-badge-label::after {
+	content: ' ';
+}
+
+.user-badge-value {
+	font-style: italic;
+}
